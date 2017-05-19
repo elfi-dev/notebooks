@@ -6,4 +6,5 @@ Full documentation can be found at http://elfi.readthedocs.io/. Limited user-sup
 
 ## About running these notebooks
 
-These notebooks have been run with Python 3.5.3 in folder `notebooks` placed to the root of a cloned ELFI repository.
+These notebooks have been run with Python 3.5.3 using ELFI version 0.5.0.
+
